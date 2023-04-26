@@ -23,7 +23,7 @@ const Services = () => {
           <ServicesIcon src={icon3} />
           <ServicesH2>Premium Benefits</ServicesH2>
           <ServicesP>Unlock our special membership card that returns 5% cashback.</ServicesP>
-          {/* HELLOOO123 */}
+          {/* HELLOOO1234 */}
         </ServicesCard>
       </ServicesWrapper>
     </ServicesContainer>
