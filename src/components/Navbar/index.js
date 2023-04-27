@@ -56,7 +56,7 @@ function Navbar({ toggle }) {
                         duration={500} 
                         spy={true} 
                         exact='true' 
-                        offset={-80}>Discover</NavLinks>
+                        offset={-80}>Discoveryy</NavLinks>
                     </NavItem>
                     <NavItem>
                         <NavLinks to='services' 
